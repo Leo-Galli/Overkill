@@ -3,7 +3,6 @@
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)  
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)  
 [![License](https://img.shields.io/github/license/Leo-Galli/Overkill)](https://github.com/Leo-Galli/Overkill/blob/main/LICENSE)  
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Leo-Galli/Overkill/python-app.yml?branch=main)](https://github.com/Leo-Galli/Overkill/actions)
 
 ## SonarCloud Metrics
 
