@@ -1,2 +1,21 @@
 # Overkill
-Overkill is a retro pixel shooter packed with fast-paced action, explosive weapons, and neon arcade vibes. Blast through endless waves of enemies, upgrade your firepower, and survive the chaos. No brakes. No mercy. Just pure pixel carnage.
+
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
+[![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
+
+Overkill is a two-dimensional shooter game in which the player runs horizontally and fires at enemies.
+
+
+## How To Play
+
+- If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
+  **Note:** _The .exe file needs to stay in the same directory as the sounds, images, and font folders._
+
+Install Pygame ```pip install pygame```
+
+- If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
+
+```bash
+cd Overkill
+python main.py
+```
